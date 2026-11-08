@@ -1,0 +1,18 @@
+[
+  {
+    "num_envs": 16384,
+    "exit_code": 0,
+    "oom": false,
+    "iterations_logged": 50,
+    "steps_per_s_median": 323376,
+    "steps_per_s_max": 325470,
+    "collection_s_median": 0.976,
+    "learning_s_median": 0.239,
+    "vram_baseline_mib": 0,
+    "vram_peak_mib": 2695,
+    "vram_used_by_run_mib": 2695,
+    "wall_s": 88.5,
+    "log": "benchmark/results/windows_16384_16384.log",
+    "vram_total_mib": 16311
+  }
+]
