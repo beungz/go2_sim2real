@@ -1,0 +1,23 @@
+presentation/
+
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+
+*.log
+
+# Runs with the friction bug
+runs/rand_500/
+runs/rand_1500/
+
+**/videos/**/clip_0000.mp4
+
+runs/sit_step_1500/frames/check_*.png
+runs/sit_step_1500/frames/annotated_check.png
+runs/sit_step_1500/random_commands_push_1.5_far_camera.mp4
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

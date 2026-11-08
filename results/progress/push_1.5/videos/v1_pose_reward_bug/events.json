@@ -1,0 +1,25 @@
+{
+  "segments": [
+    [
+      0.0,
+      "stand"
+    ],
+    [
+      6.0,
+      "sit"
+    ],
+    [
+      14.0,
+      "stand"
+    ]
+  ],
+  "pushes": [
+    4.0,
+    8.0,
+    12.0,
+    16.0
+  ],
+  "falls": [],
+  "policy": "logs/rsl_rl/go2_sit/2026-11-07_19-32-56_sit_1000/model_999.pt",
+  "push_mps": 1.5
+}
